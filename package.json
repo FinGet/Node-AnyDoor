@@ -1,0 +1,22 @@
+{
+  "name": "node-anydoor",
+  "version": "1.0.0",
+  "description": "nodejs static web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FinGet/Node-AnyDoor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FinGet/Node-AnyDoor/issues"
+  },
+  "homepage": "https://github.com/FinGet/Node-AnyDoor#readme",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  }
+}
